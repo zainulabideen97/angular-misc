@@ -1,2 +1,3 @@
-# angular-misc
+# angular-snippets
 Angular Code Snippets
+
